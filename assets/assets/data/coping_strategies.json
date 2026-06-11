@@ -1,0 +1,98 @@
+{
+  "strategies": [
+    {
+      "id": "progressive_relaxation",
+      "name": "Progressive Muscle Relaxation",
+      "category": "relaxation",
+      "description": "Systematically tense and relax muscle groups",
+      "duration_minutes": 15,
+      "steps": [
+        "Find a comfortable position",
+        "Start with your toes, tense for 5 seconds",
+        "Release and feel the relaxation for 10 seconds",
+        "Move up through your body: feet, calves, thighs, etc.",
+        "End with your face and head",
+        "Notice the overall relaxation"
+      ],
+      "is_premium": false
+    },
+    {
+      "id": "grounding_54321",
+      "name": "5-4-3-2-1 Grounding",
+      "category": "grounding",
+      "description": "Use your senses to ground yourself in the present",
+      "duration_minutes": 5,
+      "steps": [
+        "Identify 5 things you can see",
+        "Identify 4 things you can touch",
+        "Identify 3 things you can hear",
+        "Identify 2 things you can smell",
+        "Identify 1 thing you can taste"
+      ],
+      "is_premium": false
+    },
+    {
+      "id": "visualization",
+      "name": "Safe Place Visualization",
+      "category": "visualization",
+      "description": "Visualize a peaceful, safe place",
+      "duration_minutes": 10,
+      "steps": [
+        "Close your eyes and take deep breaths",
+        "Imagine a place where you feel completely safe",
+        "Notice the colors, sounds, and smells",
+        "Feel the peace and safety of this place",
+        "Stay here for a few moments",
+        "Return when you're ready"
+      ],
+      "is_premium": false
+    },
+    {
+      "id": "mindfulness_break",
+      "name": "Mindfulness Break",
+      "category": "mindfulness",
+      "description": "Take a mindful pause during your day",
+      "duration_minutes": 3,
+      "steps": [
+        "Stop what you're doing",
+        "Take three deep breaths",
+        "Notice your surroundings without judgment",
+        "Notice how your body feels",
+        "Return to your activity with renewed focus"
+      ],
+      "is_premium": false
+    },
+    {
+      "id": "cognitive_restructuring",
+      "name": "Cognitive Restructuring",
+      "category": "cognitive",
+      "description": "Challenge and reframe negative thoughts",
+      "duration_minutes": 10,
+      "steps": [
+        "Identify the negative thought",
+        "Ask: Is this thought accurate?",
+        "Ask: Is there evidence for and against it?",
+        "Ask: Would I tell a friend this?",
+        "Create a more balanced thought",
+        "Practice believing the new thought"
+      ],
+      "is_premium": true
+    },
+    {
+      "id": "physical_release",
+      "name": "Physical Release",
+      "category": "physical",
+      "description": "Release tension through movement",
+      "duration_minutes": 5,
+      "steps": [
+        "Stand up and shake your arms and legs",
+        "Do shoulder rolls forward and backward",
+        "Stretch your arms overhead",
+        "Take a quick walk",
+        "Do some jumping jacks",
+        "Notice the energy release"
+      ],
+      "is_premium": false
+    }
+  ]
+}

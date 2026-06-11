@@ -1,0 +1,164 @@
+{
+  "programs": [
+    {
+      "id": "mindfulness_basics",
+      "name": "Mindfulness Basics",
+      "category": "mindfulness",
+      "description": "Learn the fundamentals of mindfulness meditation",
+      "duration_minutes": 10,
+      "sessions": [
+        {
+          "id": "session_1",
+          "title": "Introduction to Mindfulness",
+          "duration_minutes": 10,
+          "audio_file": "mindfulness_basics_1.mp3",
+          "description": "Learn what mindfulness is and how to practice it"
+        },
+        {
+          "id": "session_2",
+          "title": "Body Scan",
+          "duration_minutes": 15,
+          "audio_file": "mindfulness_basics_2.mp3",
+          "description": "A guided body scan meditation"
+        },
+        {
+          "id": "session_3",
+          "title": "Breath Awareness",
+          "duration_minutes": 10,
+          "audio_file": "mindfulness_basics_3.mp3",
+          "description": "Focus on your breath to cultivate awareness"
+        }
+      ],
+      "difficulty": "beginner",
+      "is_premium": false
+    },
+    {
+      "id": "anxiety_relief",
+      "name": "Anxiety Relief Program",
+      "category": "anxiety_relief",
+      "description": "Reduce anxiety through guided meditation",
+      "duration_minutes": 15,
+      "sessions": [
+        {
+          "id": "session_1",
+          "title": "Calming the Mind",
+          "duration_minutes": 15,
+          "audio_file": "anxiety_relief_1.mp3",
+          "description": "Techniques to calm an anxious mind"
+        },
+        {
+          "id": "session_2",
+          "title": "Letting Go of Worry",
+          "duration_minutes": 20,
+          "audio_file": "anxiety_relief_2.mp3",
+          "description": "Release worries and find peace"
+        },
+        {
+          "id": "session_3",
+          "title": "Grounding Exercise",
+          "duration_minutes": 10,
+          "audio_file": "anxiety_relief_3.mp3",
+          "description": "Ground yourself in the present moment"
+        }
+      ],
+      "difficulty": "intermediate",
+      "is_premium": false
+    },
+    {
+      "id": "sleep_deep",
+      "name": "Deep Sleep Journey",
+      "category": "sleep_meditation",
+      "description": "Fall asleep peacefully with this sleep meditation",
+      "duration_minutes": 30,
+      "sessions": [
+        {
+          "id": "session_1",
+          "title": "Evening Wind Down",
+          "duration_minutes": 20,
+          "audio_file": "sleep_deep_1.mp3",
+          "description": "Prepare your body and mind for sleep"
+        },
+        {
+          "id": "session_2",
+          "title": "Sleep Story",
+          "duration_minutes": 30,
+          "audio_file": "sleep_deep_2.mp3",
+          "description": "A calming story to help you drift off"
+        },
+        {
+          "id": "session_3",
+          "title": "Body Relaxation",
+          "duration_minutes": 25,
+          "audio_file": "sleep_deep_3.mp3",
+          "description": "Progressive muscle relaxation for sleep"
+        }
+      ],
+      "difficulty": "beginner",
+      "is_premium": false
+    },
+    {
+      "id": "focus_enhancement",
+      "name": "Focus Enhancement",
+      "category": "focus_enhancement",
+      "description": "Improve concentration and mental clarity",
+      "duration_minutes": 15,
+      "sessions": [
+        {
+          "id": "session_1",
+          "title": "Single-Point Focus",
+          "duration_minutes": 15,
+          "audio_file": "focus_enhancement_1.mp3",
+          "description": "Train your mind to focus on one object"
+        },
+        {
+          "id": "session_2",
+          "title": "Mental Clarity",
+          "duration_minutes": 20,
+          "audio_file": "focus_enhancement_2.mp3",
+          "description": "Clear mental fog and enhance clarity"
+        },
+        {
+          "id": "session_3",
+          "title": "Productivity Meditation",
+          "duration_minutes": 10,
+          "audio_file": "focus_enhancement_3.mp3",
+          "description": "Quick meditation for productivity"
+        }
+      ],
+      "difficulty": "intermediate",
+      "is_premium": true
+    },
+    {
+      "id": "loving_kindness",
+      "name": "Loving Kindness",
+      "category": "loving_kindness",
+      "description": "Cultivate compassion and love for yourself and others",
+      "duration_minutes": 15,
+      "sessions": [
+        {
+          "id": "session_1",
+          "title": "Self-Compassion",
+          "duration_minutes": 15,
+          "audio_file": "loving_kindness_1.mp3",
+          "description": "Develop compassion for yourself"
+        },
+        {
+          "id": "session_2",
+          "title": "Sending Love",
+          "duration_minutes": 20,
+          "audio_file": "loving_kindness_2.mp3",
+          "description": "Send loving thoughts to others"
+        },
+        {
+          "id": "session_3",
+          "title": "Universal Love",
+          "duration_minutes": 25,
+          "audio_file": "loving_kindness_3.mp3",
+          "description": "Expand love to all beings"
+        }
+      ],
+      "difficulty": "intermediate",
+      "is_premium": false
+    }
+  ]
+}

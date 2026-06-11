@@ -1,0 +1,77 @@
+{
+  "resources": [
+    {
+      "id": "crisis_hotline",
+      "name": "Crisis Hotline",
+      "type": "hotline",
+      "phone": "988",
+      "description": "24/7 Suicide & Crisis Lifeline",
+      "is_available_24_7": true,
+      "country": "US"
+    },
+    {
+      "id": "text_line",
+      "name": "Crisis Text Line",
+      "type": "text",
+      "contact": "HOME to 741741",
+      "description": "Text with a crisis counselor",
+      "is_available_24_7": true,
+      "country": "US"
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency Services",
+      "type": "emergency",
+      "phone": "911",
+      "description": "For immediate danger or medical emergency",
+      "is_available_24_7": true,
+      "country": "US"
+    },
+    {
+      "id": "veterans_crisis",
+      "name": "Veterans Crisis Line",
+      "type": "hotline",
+      "phone": "988 then press 1",
+      "description": "Support for veterans and their families",
+      "is_available_24_7": true,
+      "country": "US"
+    },
+    {
+      "id": "samhsa",
+      "name": "SAMHSA Helpline",
+      "type": "hotline",
+      "phone": "1-800-662-4357",
+      "description": "Substance Abuse and Mental Health Services Administration",
+      "is_available_24_7": true,
+      "country": "US"
+    },
+    {
+      "id": "nami",
+      "name": "NAMI Helpline",
+      "type": "hotline",
+      "phone": "1-800-950-6264",
+      "description": "National Alliance on Mental Illness",
+      "is_available_24_7": false,
+      "hours": "Monday-Friday 10am-10pm ET",
+      "country": "US"
+    }
+  ],
+  "immediate_actions": [
+    "Call a trusted friend or family member",
+    "Go to a safe place",
+    "Remove any harmful objects",
+    "Practice deep breathing",
+    "Use grounding techniques",
+    "Contact a mental health professional"
+  ],
+  "warning_signs": [
+    "Talking about wanting to die or kill oneself",
+    "Looking for ways to kill oneself",
+    "Talking about feeling hopeless or having no purpose",
+    "Talking about being a burden to others",
+    "Increased use of alcohol or drugs",
+    "Acting anxious or agitated",
+    "Sleeping too little or too much",
+    "Withdrawing or feeling isolated"
+  ]
+}

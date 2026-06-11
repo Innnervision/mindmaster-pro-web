@@ -1,0 +1,82 @@
+{
+  "prompts": [
+    {
+      "id": "daily_reflection",
+      "category": "daily_reflection",
+      "title": "Daily Reflection",
+      "prompts": [
+        "What made you smile today?",
+        "What are you grateful for right now?",
+        "What challenged you today and how did you handle it?",
+        "What did you learn about yourself today?",
+        "How can you make tomorrow better than today?"
+      ],
+      "is_premium": false
+    },
+    {
+      "id": "gratitude",
+      "category": "gratitude",
+      "title": "Gratitude Journal",
+      "prompts": [
+        "List three things you're grateful for today",
+        "Who made a positive impact on your life recently?",
+        "What simple pleasure did you enjoy today?",
+        "What aspect of your health are you thankful for?",
+        "What opportunity are you grateful for?"
+      ],
+      "is_premium": false
+    },
+    {
+      "id": "anxiety",
+      "category": "anxiety",
+      "title": "Anxiety Journal",
+      "prompts": [
+        "What's making you anxious right now?",
+        "What evidence do you have that this worry will come true?",
+        "What evidence do you have that it won't?",
+        "What's the worst that could happen? How would you cope?",
+        "What would you tell a friend who had this worry?"
+      ],
+      "is_premium": false
+    },
+    {
+      "id": "goal_reflection",
+      "category": "goal_reflection",
+      "title": "Goal Reflection",
+      "prompts": [
+        "What progress did you make toward your goals today?",
+        "What obstacles are you facing?",
+        "What small step can you take tomorrow?",
+        "How does working toward this goal make you feel?",
+        "Who can support you in achieving this goal?"
+      ],
+      "is_premium": true
+    },
+    {
+      "id": "dream_journal",
+      "category": "dream_journal",
+      "title": "Dream Journal",
+      "prompts": [
+        "Describe your dream in detail",
+        "What emotions did you feel in the dream?",
+        "What symbols or themes appeared?",
+        "How might this dream relate to your waking life?",
+        "What message might your subconscious be sending?"
+      ],
+      "is_premium": true
+    },
+    {
+      "id": "mindfulness_log",
+      "category": "mindfulness",
+      "title": "Mindfulness Log",
+      "prompts": [
+        "What did you notice in your environment today?",
+        "When were you fully present today?",
+        "What sensory experiences stood out?",
+        "What thoughts passed through your mind?",
+        "How did your body feel throughout the day?"
+      ],
+      "is_premium": false
+    }
+  ]
+}
